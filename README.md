@@ -33,3 +33,5 @@ Sample Report:
 
 <img width="336" alt="sample_report" src="https://github.com/keasark/optical_store_database/assets/76891395/187c8d23-6ceb-40ee-ab8f-37a1288bf8ed">
 
+<img width="337" alt="sample_report" src="https://github.com/keasark/optical_store_database/assets/76891395/04ffe3df-5a56-4fbe-b88c-632981e37544">
+
